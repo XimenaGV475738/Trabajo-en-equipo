@@ -1,0 +1,1 @@
+La palabra con mayor número de vocales en mayúscula es "HOLA", con 2 vocales.
